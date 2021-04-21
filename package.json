@@ -1,7 +1,7 @@
 {
-  "name": "@snapshot-labs/snapshot.js",
+  "name": "@evolutionlandorg/snapshot.js",
   "version": "0.1.8",
-  "repository": "snapshot-labs/snapshot.js",
+  "repository": "evolutionlandorg/snapshot.js",
   "license": "MIT",
   "main": "dist/snapshot.cjs.js",
   "module": "dist/snapshot.esm.js",

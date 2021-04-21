@@ -293,5 +293,15 @@
     "rpc": ["https://api.s0.b.hmny.io"],
     "ws": ["wss://ws.s0.b.hmny.io"],
     "explorer": "https://explorer.pops.one"
+  },
+  "43": {
+    "key": "43",
+    "name": "Pangolin",
+    "shortName": "Pangolin",
+    "chainId": 43,
+    "network": "testnet",
+    "rpc": ["http://t1.hkg.itering.com:9933"],
+    "ws": ["wss://pangolin-rpc.darwinia.network"],
+    "explorer": "https://etherscan.io"
   }
 }

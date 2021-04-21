@@ -1,4 +1,4 @@
-// Inspired by https://github.com/snapshot-labs/snapshot.js/blob/master/src/strategies/uniswap/index.ts
+// Inspired by https://github.com/evolutionlandorg/snapshot.js/blob/master/src/strategies/uniswap/index.ts
 import { formatUnits } from '@ethersproject/units';
 import { multicall } from '../../utils';
 import { subgraphRequest } from '../../utils';
