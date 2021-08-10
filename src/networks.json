@@ -188,8 +188,8 @@
     "name": "Matic Mumbai",
     "chainId": 80001,
     "network": "testnet",
-    "rpc": ["https://matic-mumbai.chainstacklabs.com"],
-    "ws": ["wss://ws-matic-mumbai.chainstacklabs.com"],
+    "rpc": ["https://matic-testnet-archive-rpc.bwarelabs.com"],
+    "ws": ["wss://matic-testnet-archive-ws.bwarelabs.com"],
     "explorer": ""
   },
   "wanchain": {
