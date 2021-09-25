@@ -165,7 +165,7 @@
     "network": "mainnet",
     "rpc": ["https://matic-mainnet-archive-rpc.bwarelabs.com"],
     "ws": ["wss://matic-mainnet-archive-ws.bwarelabs.com"],
-    "explorer": ""
+    "explorer": "https://polygonscan.com"
   },
   "420": {
     "key": "420",
