@@ -253,7 +253,7 @@
     "network": "Mainnet",
     "rpc": ["https://http-mainnet.hecochain.com"],
     "ws": ["wss://ws-mainnet.hecochain.com"],
-    "explorer": "https://scan.hecochain.com"
+    "explorer": "https://hecoinfo.com"
   },
   "250": {
     "key": "250",
