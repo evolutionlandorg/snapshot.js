@@ -251,8 +251,8 @@
     "shortName": "heco",
     "chainId": 128,
     "network": "Mainnet",
-    "rpc": ["https://http-mainnet.hecochain.com"],
-    "ws": ["wss://ws-mainnet.hecochain.com"],
+    "rpc": ["https://pub001.hg.network/rpc"],
+    "ws": ["wss://pub001.hg.network/ws"],
     "explorer": "https://hecoinfo.com"
   },
   "250": {
