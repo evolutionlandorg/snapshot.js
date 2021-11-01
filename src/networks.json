@@ -163,7 +163,7 @@
     "shortName": "Matic",
     "chainId": 137,
     "network": "mainnet",
-    "rpc": ["https://matic-mainnet-archive-rpc.bwarelabs.com"],
+    "rpc": ["https://poly-rpc.gateway.pokt.network"],
     "ws": ["wss://matic-mainnet-archive-ws.bwarelabs.com"],
     "explorer": "https://polygonscan.com"
   },
